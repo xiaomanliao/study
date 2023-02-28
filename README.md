@@ -1,2 +1,2 @@
 # study
-my-project
+my-project-name
