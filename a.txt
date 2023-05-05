@@ -1,2 +1,3 @@
 this is file
 It's raining
+这句话是在github上添加的
